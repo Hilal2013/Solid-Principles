@@ -14,7 +14,7 @@ public class MyApp {
         Square square = new Square();
         square.setSide(4);
 
-//        List<Rectangle> rectangles = Arrays.asList(rectangle, square);
+//        List<Rectangle> rectangles = Arrays.asList(rectangle, square);error
 //
 //        changeHeightAndWidth(rectangles);
 
