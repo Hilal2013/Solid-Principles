@@ -4,6 +4,6 @@ public class XMLReader {
 
     public String getUsername() {
         return "<username>mikesmith</username>";
-    }
+    }//xml format
 
 }
